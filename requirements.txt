@@ -1,0 +1,6 @@
+coffea @ git+https://github.com/scikit-hep/coffea.git@pfackeldey/virtual-arrays
+jupyterlab
+scikit-learn
+xgboost
+cabinetry
+pyhf
