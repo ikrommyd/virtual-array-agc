@@ -1,4 +1,4 @@
-coffea @ git+https://github.com/scikit-hep/coffea.git@master
+coffea[dask] @ git+https://github.com/scikit-hep/coffea.git@master
 jupyterlab
 scikit-learn
 xgboost
